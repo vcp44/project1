@@ -1,0 +1,91 @@
+body
+{
+
+
+}
+h1{
+  text-align: center;
+  color:brown;
+}
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  input[type=text], input[type=password] {
+    width: 50%;
+    padding: 8px 10px;
+    margin: 2px 0;
+    display: inline-block;
+    border: 1px solid rgb(204, 204, 204);
+    box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.032);
+    border-radius:10px;
+    box-sizing: border-edge;
+  }
+  button {
+    background-color: #045faa;
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    border-radius:10px;
+    width: 40%;
+  }
+  
+  button:hover {
+    opacity: 0.6;
+  }
+  .form-p1{
+    position: fixed;
+    left : 400px;
+    border: 3px solid crimson;
+    z-index:9;
+  }
+  
+
+  .form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  .form-p2 {
+    position: fixed;
+    right: 400px;
+    border: 3px solid crimson;
+    z-index: 9;
+  }
+  
+  .form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+  }
+   
+  
+fieldset
+{
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove; 
+  
+}
+legend
+{
+    font-size:large;
+    color:rgb(0, 30, 255);
+}
+label
+{    color: rgb(30, 132, 210);
+}
+p{
+
+  text-align:justify;  
+  text-justify:inter-character;
+
+}

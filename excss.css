@@ -1,0 +1,18 @@
+h1{
+    font-family:'Times New Roman', Times, serif ;
+    
+    background-image:transparent;
+}
+.img1
+{
+    background-image: url(https://i.pinimg.com/originals/26/6f/f7/266ff7304c74fe02c1738335b347bbab.jpg);
+    border-color: blue;
+}
+*{
+    background-image: url(https://i.pinimg.com/originals/26/6f/f7/266ff7304c74fe02c1738335b347bbab.jpg);
+     background-repeat:no-repeat ;
+     background-position:center; 
+    background-size:auto;
+    background-color: rgba(4, 160, 251, 0.536);
+     
+}

@@ -1,0 +1,16 @@
+p{
+    text-align: :justify;
+    color:black;
+}
+body {
+    background-image: url("healthy.jpg");
+    color:rgb(95, 81, 63);
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-attachment: fixed;
+   }
+   
+   *{
+    background-repeat: :no-repeat;
+    backgrounf
+   }
